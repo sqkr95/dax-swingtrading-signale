@@ -1,0 +1,1 @@
+# dax-swingtrading-signale
